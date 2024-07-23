@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 19
+
+## Media
+
+### Title
+panorama_D4FA8A67_DF45_281C_41DE_B75B212B4F50.label = BENTARK BAR 
